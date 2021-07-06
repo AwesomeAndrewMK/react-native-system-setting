@@ -14,6 +14,10 @@ It provides some system setting APIs for you. Support iOS and Android both.
 
 **[Example](https://github.com/c19354837/react-native-system-setting/tree/master/examples/SystemSettingExample) only work in the real device**
 
+IMPORTANT!
+This version of package is a fork of the original one:
+[react-native-system-setting](https://www.npmjs.com/package/react-native-system-setting), which includes a fix for Android brightness
+
 ### Change Log
 
 [Change Log](https://github.com/c19354837/react-native-system-setting/blob/master/CHANGELOG.md)
